@@ -5,5 +5,7 @@ package teamproject;
  * 
  */
 public class Dasom {
-
+	public void dasom() {
+		System.out.println("Hello Dasom");
+	}
 }
