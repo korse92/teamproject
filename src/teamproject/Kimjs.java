@@ -6,6 +6,9 @@ package teamproject;
  *
  */
 public class Kimjs {
-
 	private int num;
+	
+	public void hello() {
+		System.out.println("Kimjs 짱!");
+	}
 }
