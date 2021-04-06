@@ -9,6 +9,6 @@ public class Kimjs {
 	private int num;
 	
 	public void hello() {
-		System.out.println("Kimjs 짱!");
+		System.out.println("충돌테스트");
 	}
 }
