@@ -5,6 +5,6 @@ package teamproject;
  * @author korse
  *
  */
-public class KimJiSu {
-
+public class Kimjs {
+	private int num;
 }
