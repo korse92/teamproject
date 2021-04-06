@@ -7,5 +7,4 @@ package teamproject;
  */
 public class Kimjs {
 	private int num;
-	int test;
 }
